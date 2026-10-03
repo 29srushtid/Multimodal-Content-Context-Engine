@@ -1,1 +1,18 @@
+# Project Brief: Automated Civil Engineering Documentation Pipeline
 
+## Objective
+Develop a structured system prompt framework to automate the generation of civil engineering project summaries, material compliance reports, and quality assurance documentation.
+
+## Scope & Core Requirements
+* **Domain Focus:** Construction materials, quality control, and structural engineering specifications.
+* **Target Audience:** Site engineers, project managers, and technical auditors.
+* **Input Sources:** Raw field notes, material test certificates, and site inspection logs.
+
+## Expected Features
+* Standardized reporting templates for material testing (e.g., Concrete, Steel, Cement).
+* Risk flags for non-compliant material batches based on standard engineering thresholds.
+* Executive summary generation for high-level project status reviews.
+
+## Notes & Constraints
+* All generated outputs must align with standard industry norms and structural safety codes.
+* Technical terminology should remain consistent across all generated documents.
